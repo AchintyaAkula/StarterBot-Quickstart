@@ -4,6 +4,9 @@ This is The cad for the 30099 x 27353 Open Sourced Decode Starter Bot
 ## CAD
 https://cad.onshape.com/documents/78b28cfea2384430f2023790/w/0eada03f4a744f7e79b9ca1a/e/c6144efaff041e137063e747?renderMode=0&uiState=692fb6eec8f31876d047c8ec
 
+## Budget Sheet
+https://docs.google.com/spreadsheets/d/1BEP9h5eyimDdOz3mUUV-mZ-VuI9EaoFCWxuLnuyolig/edit?usp=sharing
+
 ## Feel free to anwser any question at 
 
 ## Requirements
